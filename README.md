@@ -7,9 +7,6 @@ Distributed systems & async data pipelines for **Dynamics 365 Customer Voice**
 - 30M monthly requests, 99.9% availability
 - Azure Service Bus, DTF, .NET 8
 
-## Building
-Distributed KV store in **Go** (Raft consensus)
-
 ## Previously
 - Software Engineer Intern, **Azure Business Continuity**
 - B.Tech CSE, **IIT (ISM) Dhanbad**
