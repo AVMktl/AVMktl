@@ -1,16 +1,21 @@
 # Lakshya Gupta
 
-Software Engineer at **Microsoft** (L60)
+Software Engineer II at **Microsoft**
 
 ## Current Work
-Distributed systems & async data pipelines for **Dynamics 365 Customer Voice**
-- 30M monthly requests, 99.9% availability
-- Azure Service Bus, DTF, .NET 8
+
+Backend and distributed systems engineering for **Dynamics 365 Customer Voice**
+
+- Co-own **Dataverse Sync**, handling **30M requests/month**
+- Work with Azure Service Bus, and .NET
+- Focus on reliability, observability, and multi-region service infrastructure
 
 ## Previously
-- Software Engineer Intern, **Azure Business Continuity**
-- B.Tech CSE, **IIT (ISM) Dhanbad**
+
+- Software Engineer Intern, **Azure Business Continuity Center**
+- B.Tech in Computer Science & Engineering, **IIT (ISM) Dhanbad**
 
 ## Contact
+
 - [LinkedIn](https://linkedin.com/in/lakshyagupta-in)
-- lakshyaguptaavm@gmail.com
+- [lakshyaguptaavm@gmail.com](mailto:lakshyaguptaavm@gmail.com)
